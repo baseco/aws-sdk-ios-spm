@@ -1,0 +1,84 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/stefan/Library/Developer/Xcode/DerivedData/AWSAuthSDK-eypznaavrcolsufeizqgjtbknube/Build/Intermediates.noindex/ArchiveIntermediates/AWSGoogleSignIn/InstallationBuildProductsLocation/Library/Frameworks/AWSGoogleSignIn.framework/AWSGoogleSignIn'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x5F0CC, size: 0x8, addend: 0x0, symName: _AWSGoogleSignInVersionString, symObjAddr: 0x0, symBinAddr: 0x6560, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x5F101, size: 0x8, addend: 0x0, symName: _AWSGoogleSignInVersionNumber, symObjAddr: 0x38, symBinAddr: 0x6598, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x5F13E, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton initWithCoder:]', symObjAddr: 0x0, symBinAddr: 0x28A8, symSize: 0x50 }
+  - { offsetInCU: 0x178, offset: 0x5F28F, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton initWithCoder:]', symObjAddr: 0x0, symBinAddr: 0x28A8, symSize: 0x50 }
+  - { offsetInCU: 0x1BF, offset: 0x5F2D6, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton initWithFrame:]', symObjAddr: 0x50, symBinAddr: 0x28F8, symSize: 0x50 }
+  - { offsetInCU: 0x202, offset: 0x5F319, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton commonInit]', symObjAddr: 0xA0, symBinAddr: 0x2948, symSize: 0x6C }
+  - { offsetInCU: 0x235, offset: 0x5F34C, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton dealloc]', symObjAddr: 0x10C, symBinAddr: 0x29B4, symSize: 0x60 }
+  - { offsetInCU: 0x283, offset: 0x5F39A, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton observeValueForKeyPath:ofObject:change:context:]', symObjAddr: 0x16C, symBinAddr: 0x2A14, symSize: 0xCC }
+  - { offsetInCU: 0x2EA, offset: 0x5F401, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton initGoogleButton]', symObjAddr: 0x238, symBinAddr: 0x2AE0, symSize: 0x280 }
+  - { offsetInCU: 0x32D, offset: 0x5F444, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton initLogo]', symObjAddr: 0x4B8, symBinAddr: 0x2D60, symSize: 0xA4 }
+  - { offsetInCU: 0x380, offset: 0x5F497, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton initStackView]', symObjAddr: 0x55C, symBinAddr: 0x2E04, symSize: 0x204 }
+  - { offsetInCU: 0x3B3, offset: 0x5F4CA, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton initLabel]', symObjAddr: 0x760, symBinAddr: 0x3008, symSize: 0x230 }
+  - { offsetInCU: 0x3E6, offset: 0x5F4FD, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton setUpButtonEffects]', symObjAddr: 0x990, symBinAddr: 0x3238, symSize: 0x2A4 }
+  - { offsetInCU: 0x419, offset: 0x5F530, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton setupSmallGoogleButton]', symObjAddr: 0xC34, symBinAddr: 0x34DC, symSize: 0x58 }
+  - { offsetInCU: 0x44C, offset: 0x5F563, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton setupLargeGoogleButton]', symObjAddr: 0xC8C, symBinAddr: 0x3534, symSize: 0xA4 }
+  - { offsetInCU: 0x47F, offset: 0x5F596, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton getImageFromBundle:]', symObjAddr: 0xD30, symBinAddr: 0x35D8, symSize: 0x138 }
+  - { offsetInCU: 0x506, offset: 0x5F61D, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton setSignInProvider:]', symObjAddr: 0xE68, symBinAddr: 0x3710, symSize: 0x4 }
+  - { offsetInCU: 0x545, offset: 0x5F65C, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton logInWithProvider:]', symObjAddr: 0xE6C, symBinAddr: 0x3714, symSize: 0xC0 }
+  - { offsetInCU: 0x584, offset: 0x5F69B, size: 0x8, addend: 0x0, symName: '___43-[AWSGoogleSignInButton logInWithProvider:]_block_invoke', symObjAddr: 0xF2C, symBinAddr: 0x37D4, symSize: 0x9C }
+  - { offsetInCU: 0x5E3, offset: 0x5F6FA, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0xFC8, symBinAddr: 0x3870, symSize: 0x8 }
+  - { offsetInCU: 0x60A, offset: 0x5F721, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0xFD0, symBinAddr: 0x3878, symSize: 0x8 }
+  - { offsetInCU: 0x629, offset: 0x5F740, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton delegate]', symObjAddr: 0xFD8, symBinAddr: 0x3880, symSize: 0x20 }
+  - { offsetInCU: 0x660, offset: 0x5F777, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton setDelegate:]', symObjAddr: 0xFF8, symBinAddr: 0x38A0, symSize: 0x14 }
+  - { offsetInCU: 0x6A1, offset: 0x5F7B8, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton buttonStyle]', symObjAddr: 0x100C, symBinAddr: 0x38B4, symSize: 0x10 }
+  - { offsetInCU: 0x6D8, offset: 0x5F7EF, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton setButtonStyle:]', symObjAddr: 0x101C, symBinAddr: 0x38C4, symSize: 0x10 }
+  - { offsetInCU: 0x715, offset: 0x5F82C, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton textLabel]', symObjAddr: 0x102C, symBinAddr: 0x38D4, symSize: 0x10 }
+  - { offsetInCU: 0x74C, offset: 0x5F863, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton setTextLabel:]', symObjAddr: 0x103C, symBinAddr: 0x38E4, symSize: 0x14 }
+  - { offsetInCU: 0x78D, offset: 0x5F8A4, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton signInProvider]', symObjAddr: 0x1050, symBinAddr: 0x38F8, symSize: 0x10 }
+  - { offsetInCU: 0x7C4, offset: 0x5F8DB, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton signInButton]', symObjAddr: 0x1060, symBinAddr: 0x3908, symSize: 0x10 }
+  - { offsetInCU: 0x7FB, offset: 0x5F912, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton setSignInButton:]', symObjAddr: 0x1070, symBinAddr: 0x3918, symSize: 0x14 }
+  - { offsetInCU: 0x83C, offset: 0x5F953, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton googleButton]', symObjAddr: 0x1084, symBinAddr: 0x392C, symSize: 0x10 }
+  - { offsetInCU: 0x873, offset: 0x5F98A, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton setGoogleButton:]', symObjAddr: 0x1094, symBinAddr: 0x393C, symSize: 0x14 }
+  - { offsetInCU: 0x8B4, offset: 0x5F9CB, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton googleStackView]', symObjAddr: 0x10A8, symBinAddr: 0x3950, symSize: 0x10 }
+  - { offsetInCU: 0x8EB, offset: 0x5FA02, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton setGoogleStackView:]', symObjAddr: 0x10B8, symBinAddr: 0x3960, symSize: 0x14 }
+  - { offsetInCU: 0x92C, offset: 0x5FA43, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton googleLogoImageView]', symObjAddr: 0x10CC, symBinAddr: 0x3974, symSize: 0x10 }
+  - { offsetInCU: 0x963, offset: 0x5FA7A, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton setGoogleLogoImageView:]', symObjAddr: 0x10DC, symBinAddr: 0x3984, symSize: 0x14 }
+  - { offsetInCU: 0x9A4, offset: 0x5FABB, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInButton .cxx_destruct]', symObjAddr: 0x10F0, symBinAddr: 0x3998, symSize: 0xA0 }
+  - { offsetInCU: 0x27, offset: 0x5FC11, size: 0x8, addend: 0x0, symName: '+[AWSGoogleSignInProvider sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x3A38, symSize: 0x1F4 }
+  - { offsetInCU: 0x3A, offset: 0x5FC24, size: 0x8, addend: 0x0, symName: '+[AWSGoogleSignInProvider sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x3A38, symSize: 0x1F4 }
+  - { offsetInCU: 0x64, offset: 0x5FC4E, size: 0x8, addend: 0x0, symName: _sharedInstance._sharedInstance, symObjAddr: 0x9980, symBinAddr: 0xD420, symSize: 0x0 }
+  - { offsetInCU: 0x7A, offset: 0x5FC64, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0x9988, symBinAddr: 0xD428, symSize: 0x0 }
+  - { offsetInCU: 0x516, offset: 0x60100, size: 0x8, addend: 0x0, symName: '___41+[AWSGoogleSignInProvider sharedInstance]_block_invoke', symObjAddr: 0x1F4, symBinAddr: 0x3C2C, symSize: 0x84 }
+  - { offsetInCU: 0x551, offset: 0x6013B, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider initWithGoogleClientID:]', symObjAddr: 0x288, symBinAddr: 0x3CB0, symSize: 0x1D0 }
+  - { offsetInCU: 0x608, offset: 0x601F2, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider setScopes:]', symObjAddr: 0x458, symBinAddr: 0x3E80, symSize: 0x50 }
+  - { offsetInCU: 0x64B, offset: 0x60235, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider setViewControllerForGoogleSignIn:]', symObjAddr: 0x4A8, symBinAddr: 0x3ED0, symSize: 0x4 }
+  - { offsetInCU: 0x68A, offset: 0x60274, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider signInViewController]', symObjAddr: 0x4AC, symBinAddr: 0x3ED4, symSize: 0xE0 }
+  - { offsetInCU: 0x6E0, offset: 0x602CA, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider identityProviderName]', symObjAddr: 0x58C, symBinAddr: 0x3FB4, symSize: 0x10 }
+  - { offsetInCU: 0x713, offset: 0x602FD, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider token]', symObjAddr: 0x59C, symBinAddr: 0x3FC4, symSize: 0xBC }
+  - { offsetInCU: 0x75A, offset: 0x60344, size: 0x8, addend: 0x0, symName: '___32-[AWSGoogleSignInProvider token]_block_invoke', symObjAddr: 0x658, symBinAddr: 0x4080, symSize: 0x3F0 }
+  - { offsetInCU: 0x880, offset: 0x6046A, size: 0x8, addend: 0x0, symName: '___32-[AWSGoogleSignInProvider token]_block_invoke_2', symObjAddr: 0xA48, symBinAddr: 0x4470, symSize: 0x8 }
+  - { offsetInCU: 0x8BF, offset: 0x604A9, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider signInSilently]', symObjAddr: 0xA50, symBinAddr: 0x4478, symSize: 0x30 }
+  - { offsetInCU: 0x8F2, offset: 0x604DC, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider isLoggedIn]', symObjAddr: 0xA80, symBinAddr: 0x44A8, symSize: 0x3C }
+  - { offsetInCU: 0x929, offset: 0x60513, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider reloadSession]', symObjAddr: 0xABC, symBinAddr: 0x44E4, symSize: 0x34 }
+  - { offsetInCU: 0x95C, offset: 0x60546, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider login:]', symObjAddr: 0xAF0, symBinAddr: 0x4518, symSize: 0x84 }
+  - { offsetInCU: 0x99F, offset: 0x60589, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider logout]', symObjAddr: 0xB74, symBinAddr: 0x459C, symSize: 0x30 }
+  - { offsetInCU: 0x9D2, offset: 0x605BC, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider signIn:didSignInForUser:withError:]', symObjAddr: 0xBA4, symBinAddr: 0x45CC, symSize: 0x224 }
+  - { offsetInCU: 0xA6F, offset: 0x60659, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider signIn:didDisconnectWithUser:withError:]', symObjAddr: 0xDC8, symBinAddr: 0x47F0, symSize: 0xA4 }
+  - { offsetInCU: 0xAC6, offset: 0x606B0, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider completeLoginWithToken]', symObjAddr: 0xE6C, symBinAddr: 0x4894, symSize: 0x38 }
+  - { offsetInCU: 0xAF5, offset: 0x606DF, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider signInWillDispatch:error:]', symObjAddr: 0xEA4, symBinAddr: 0x48CC, symSize: 0x100 }
+  - { offsetInCU: 0xB40, offset: 0x6072A, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider signIn:presentViewController:]', symObjAddr: 0xFA4, symBinAddr: 0x49CC, symSize: 0x80 }
+  - { offsetInCU: 0xB87, offset: 0x60771, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider signIn:dismissViewController:]', symObjAddr: 0x1024, symBinAddr: 0x4A4C, symSize: 0xAC }
+  - { offsetInCU: 0xBD2, offset: 0x607BC, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider interceptApplication:didFinishLaunchingWithOptions:]', symObjAddr: 0x10D0, symBinAddr: 0x4AF8, symSize: 0x8 }
+  - { offsetInCU: 0xC20, offset: 0x6080A, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider interceptApplication:openURL:sourceApplication:annotation:]', symObjAddr: 0x10D8, symBinAddr: 0x4B00, symSize: 0x64 }
+  - { offsetInCU: 0xC90, offset: 0x6087A, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider application:openURL:options:]', symObjAddr: 0x113C, symBinAddr: 0x4B64, symSize: 0x64 }
+  - { offsetInCU: 0xCF3, offset: 0x608DD, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider application:openURL:sourceApplication:annotation:]', symObjAddr: 0x11A0, symBinAddr: 0x4BC8, symSize: 0x64 }
+  - { offsetInCU: 0xD63, offset: 0x6094D, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider isConfigurationKeyPresent]', symObjAddr: 0x1204, symBinAddr: 0x4C2C, symSize: 0x124 }
+  - { offsetInCU: 0xDCA, offset: 0x609B4, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider getPermissionsFromConfig]', symObjAddr: 0x1328, symBinAddr: 0x4D50, symSize: 0x138 }
+  - { offsetInCU: 0xE31, offset: 0x60A1B, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider taskCompletionSource]', symObjAddr: 0x1460, symBinAddr: 0x4E88, symSize: 0xC }
+  - { offsetInCU: 0xE68, offset: 0x60A52, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider setTaskCompletionSource:]', symObjAddr: 0x146C, symBinAddr: 0x4E94, symSize: 0x8 }
+  - { offsetInCU: 0xEA7, offset: 0x60A91, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider semaphore]', symObjAddr: 0x1474, symBinAddr: 0x4E9C, symSize: 0x8 }
+  - { offsetInCU: 0xEDE, offset: 0x60AC8, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider setSemaphore:]', symObjAddr: 0x147C, symBinAddr: 0x4EA4, symSize: 0xC }
+  - { offsetInCU: 0xF1F, offset: 0x60B09, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider executor]', symObjAddr: 0x1488, symBinAddr: 0x4EB0, symSize: 0x8 }
+  - { offsetInCU: 0xF56, offset: 0x60B40, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider setExecutor:]', symObjAddr: 0x1490, symBinAddr: 0x4EB8, symSize: 0xC }
+  - { offsetInCU: 0xF97, offset: 0x60B81, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider setSignInViewController:]', symObjAddr: 0x149C, symBinAddr: 0x4EC4, symSize: 0xC }
+  - { offsetInCU: 0xFD8, offset: 0x60BC2, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider completionHandler]', symObjAddr: 0x14A8, symBinAddr: 0x4ED0, symSize: 0xC }
+  - { offsetInCU: 0x100F, offset: 0x60BF9, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider setCompletionHandler:]', symObjAddr: 0x14B4, symBinAddr: 0x4EDC, symSize: 0x8 }
+  - { offsetInCU: 0x104E, offset: 0x60C38, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider signInClient]', symObjAddr: 0x14BC, symBinAddr: 0x4EE4, symSize: 0x8 }
+  - { offsetInCU: 0x1085, offset: 0x60C6F, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider setSignInClient:]', symObjAddr: 0x14C4, symBinAddr: 0x4EEC, symSize: 0xC }
+  - { offsetInCU: 0x10C6, offset: 0x60CB0, size: 0x8, addend: 0x0, symName: '-[AWSGoogleSignInProvider .cxx_destruct]', symObjAddr: 0x14D0, symBinAddr: 0x4EF8, symSize: 0x60 }
+...

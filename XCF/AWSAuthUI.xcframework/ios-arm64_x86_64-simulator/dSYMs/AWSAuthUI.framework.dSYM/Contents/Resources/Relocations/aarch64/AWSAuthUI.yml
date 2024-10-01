@@ -1,0 +1,118 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/stefan/Library/Developer/Xcode/DerivedData/AWSAuthSDK-eypznaavrcolsufeizqgjtbknube/Build/Intermediates.noindex/ArchiveIntermediates/AWSAuthUI/InstallationBuildProductsLocation/Library/Frameworks/AWSAuthUI.framework/AWSAuthUI'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x5F0CC, size: 0x8, addend: 0x0, symName: _AWSAuthUIVersionString, symObjAddr: 0x0, symBinAddr: 0x9A70, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x5F101, size: 0x8, addend: 0x0, symName: _AWSAuthUIVersionNumber, symObjAddr: 0x30, symBinAddr: 0x9AA0, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x5F13E, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration init]', symObjAddr: 0x0, symBinAddr: 0x355C, symSize: 0x7C }
+  - { offsetInCU: 0x189, offset: 0x5F2A0, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration init]', symObjAddr: 0x0, symBinAddr: 0x355C, symSize: 0x7C }
+  - { offsetInCU: 0x1C0, offset: 0x5F2D7, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration addAWSSignInButtonViewClass:]', symObjAddr: 0x7C, symBinAddr: 0x35D8, symSize: 0x88 }
+  - { offsetInCU: 0x203, offset: 0x5F31A, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration getAllSignInButtonViews]', symObjAddr: 0x104, symBinAddr: 0x3660, symSize: 0x4 }
+  - { offsetInCU: 0x238, offset: 0x5F34F, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration hasSignInButtonView]', symObjAddr: 0x108, symBinAddr: 0x3664, symSize: 0x40 }
+  - { offsetInCU: 0x26F, offset: 0x5F386, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration logoImage]', symObjAddr: 0x148, symBinAddr: 0x36A4, symSize: 0x8 }
+  - { offsetInCU: 0x2A6, offset: 0x5F3BD, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration setLogoImage:]', symObjAddr: 0x150, symBinAddr: 0x36AC, symSize: 0xC }
+  - { offsetInCU: 0x2E7, offset: 0x5F3FE, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration backgroundColor]', symObjAddr: 0x15C, symBinAddr: 0x36B8, symSize: 0x8 }
+  - { offsetInCU: 0x31E, offset: 0x5F435, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration setBackgroundColor:]', symObjAddr: 0x164, symBinAddr: 0x36C0, symSize: 0xC }
+  - { offsetInCU: 0x35F, offset: 0x5F476, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration secondaryBackgroundColor]', symObjAddr: 0x170, symBinAddr: 0x36CC, symSize: 0x8 }
+  - { offsetInCU: 0x396, offset: 0x5F4AD, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration setSecondaryBackgroundColor:]', symObjAddr: 0x178, symBinAddr: 0x36D4, symSize: 0xC }
+  - { offsetInCU: 0x3D7, offset: 0x5F4EE, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration primaryColor]', symObjAddr: 0x184, symBinAddr: 0x36E0, symSize: 0x8 }
+  - { offsetInCU: 0x40E, offset: 0x5F525, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration setPrimaryColor:]', symObjAddr: 0x18C, symBinAddr: 0x36E8, symSize: 0xC }
+  - { offsetInCU: 0x44F, offset: 0x5F566, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration registeredSignInButtonViews]', symObjAddr: 0x198, symBinAddr: 0x36F4, symSize: 0x8 }
+  - { offsetInCU: 0x486, offset: 0x5F59D, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration setRegisteredSignInButtonViews:]', symObjAddr: 0x1A0, symBinAddr: 0x36FC, symSize: 0xC }
+  - { offsetInCU: 0x4C7, offset: 0x5F5DE, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration enableUserPoolsUI]', symObjAddr: 0x1AC, symBinAddr: 0x3708, symSize: 0xC }
+  - { offsetInCU: 0x4FE, offset: 0x5F615, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration setEnableUserPoolsUI:]', symObjAddr: 0x1B8, symBinAddr: 0x3714, symSize: 0x8 }
+  - { offsetInCU: 0x53B, offset: 0x5F652, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration isBackgroundColorFullScreen]', symObjAddr: 0x1C0, symBinAddr: 0x371C, symSize: 0x8 }
+  - { offsetInCU: 0x572, offset: 0x5F689, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration setIsBackgroundColorFullScreen:]', symObjAddr: 0x1C8, symBinAddr: 0x3724, symSize: 0x8 }
+  - { offsetInCU: 0x5AD, offset: 0x5F6C4, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration disableSignUpButton]', symObjAddr: 0x1D0, symBinAddr: 0x372C, symSize: 0xC }
+  - { offsetInCU: 0x5E4, offset: 0x5F6FB, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration setDisableSignUpButton:]', symObjAddr: 0x1DC, symBinAddr: 0x3738, symSize: 0x8 }
+  - { offsetInCU: 0x621, offset: 0x5F738, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration font]', symObjAddr: 0x1E4, symBinAddr: 0x3740, symSize: 0x8 }
+  - { offsetInCU: 0x658, offset: 0x5F76F, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration setFont:]', symObjAddr: 0x1EC, symBinAddr: 0x3748, symSize: 0xC }
+  - { offsetInCU: 0x699, offset: 0x5F7B0, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration canCancel]', symObjAddr: 0x1F8, symBinAddr: 0x3754, symSize: 0xC }
+  - { offsetInCU: 0x6D0, offset: 0x5F7E7, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration setCanCancel:]', symObjAddr: 0x204, symBinAddr: 0x3760, symSize: 0x8 }
+  - { offsetInCU: 0x70D, offset: 0x5F824, size: 0x8, addend: 0x0, symName: '-[AWSAuthUIConfiguration .cxx_destruct]', symObjAddr: 0x20C, symBinAddr: 0x3768, symSize: 0x60 }
+  - { offsetInCU: 0x27, offset: 0x5F8C4, size: 0x8, addend: 0x0, symName: '+[AWSSignInViewController initialize]', symObjAddr: 0x0, symBinAddr: 0x37C8, symSize: 0xAC }
+  - { offsetInCU: 0x4A9, offset: 0x5FD46, size: 0x8, addend: 0x0, symName: '+[AWSSignInViewController initialize]', symObjAddr: 0x0, symBinAddr: 0x37C8, symSize: 0xAC }
+  - { offsetInCU: 0x4DC, offset: 0x5FD79, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController initWithCoder:]', symObjAddr: 0xAC, symBinAddr: 0x3874, symSize: 0x34 }
+  - { offsetInCU: 0x523, offset: 0x5FDC0, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController keyboardDidShow:]', symObjAddr: 0xE0, symBinAddr: 0x38A8, symSize: 0x15C }
+  - { offsetInCU: 0x596, offset: 0x5FE33, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController keyboardDidHide:]', symObjAddr: 0x23C, symBinAddr: 0x3A04, symSize: 0x9C }
+  - { offsetInCU: 0x5D5, offset: 0x5FE72, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController viewDidLoad]', symObjAddr: 0x2D8, symBinAddr: 0x3AA0, symSize: 0x1FC }
+  - { offsetInCU: 0x608, offset: 0x5FEA5, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController viewWillAppear:]', symObjAddr: 0x4D4, symBinAddr: 0x3C9C, symSize: 0x1F8 }
+  - { offsetInCU: 0x6A4, offset: 0x5FF41, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController touchesBegan:withEvent:]', symObjAddr: 0x6CC, symBinAddr: 0x3E94, symSize: 0xCC }
+  - { offsetInCU: 0x707, offset: 0x5FFA4, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController handleLoginWithSignInProvider:]', symObjAddr: 0x798, symBinAddr: 0x3F60, symSize: 0xD0 }
+  - { offsetInCU: 0x74A, offset: 0x5FFE7, size: 0x8, addend: 0x0, symName: '___57-[AWSSignInViewController handleLoginWithSignInProvider:]_block_invoke', symObjAddr: 0x868, symBinAddr: 0x4030, symSize: 0x248 }
+  - { offsetInCU: 0x81C, offset: 0x600B9, size: 0x8, addend: 0x0, symName: '___57-[AWSSignInViewController handleLoginWithSignInProvider:]_block_invoke_2', symObjAddr: 0xAB0, symBinAddr: 0x4278, symSize: 0xBC }
+  - { offsetInCU: 0x8CF, offset: 0x6016C, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s, symObjAddr: 0xB6C, symBinAddr: 0x4334, symSize: 0x28 }
+  - { offsetInCU: 0x8F8, offset: 0x60195, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s, symObjAddr: 0xB94, symBinAddr: 0x435C, symSize: 0x28 }
+  - { offsetInCU: 0x917, offset: 0x601B4, size: 0x8, addend: 0x0, symName: '___57-[AWSSignInViewController handleLoginWithSignInProvider:]_block_invoke.42', symObjAddr: 0xBBC, symBinAddr: 0x4384, symSize: 0x78 }
+  - { offsetInCU: 0x982, offset: 0x6021F, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s, symObjAddr: 0xC34, symBinAddr: 0x43FC, symSize: 0x30 }
+  - { offsetInCU: 0x9AB, offset: 0x60248, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s, symObjAddr: 0xC64, symBinAddr: 0x442C, symSize: 0x30 }
+  - { offsetInCU: 0x9CA, offset: 0x60267, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setUpUserPoolsUI]', symObjAddr: 0xC94, symBinAddr: 0x445C, symSize: 0x704 }
+  - { offsetInCU: 0xA5E, offset: 0x602FB, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setUpLogo:]', symObjAddr: 0x1398, symBinAddr: 0x4B60, symSize: 0x2B4 }
+  - { offsetInCU: 0xAA3, offset: 0x60340, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setUpBackground:]', symObjAddr: 0x164C, symBinAddr: 0x4E14, symSize: 0x23C }
+  - { offsetInCU: 0xB08, offset: 0x603A5, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setUpResponders]', symObjAddr: 0x1888, symBinAddr: 0x5050, symSize: 0xA4 }
+  - { offsetInCU: 0xB3C, offset: 0x603D9, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setUpNavigationController]', symObjAddr: 0x192C, symBinAddr: 0x50F4, symSize: 0x300 }
+  - { offsetInCU: 0xBA1, offset: 0x6043E, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setUpFont]', symObjAddr: 0x1C2C, symBinAddr: 0x53F4, symSize: 0x24C }
+  - { offsetInCU: 0xBD5, offset: 0x60472, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController barButtonClosePressed]', symObjAddr: 0x1E78, symBinAddr: 0x5640, symSize: 0x170 }
+  - { offsetInCU: 0xC30, offset: 0x604CD, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController addButtonViewstoSignInView]', symObjAddr: 0x1FE8, symBinAddr: 0x57B0, symSize: 0x488 }
+  - { offsetInCU: 0xD2F, offset: 0x605CC, size: 0x8, addend: 0x0, symName: '+[AWSSignInViewController getImageFromBundle:]', symObjAddr: 0x2470, symBinAddr: 0x5C38, symSize: 0x20C }
+  - { offsetInCU: 0xDBC, offset: 0x60659, size: 0x8, addend: 0x0, symName: '+[AWSSignInViewController getUIStoryboardFromBundle:]', symObjAddr: 0x267C, symBinAddr: 0x5E44, symSize: 0x214 }
+  - { offsetInCU: 0xE38, offset: 0x606D5, size: 0x8, addend: 0x0, symName: '+[AWSSignInViewController getViewControllerWithName:storyboard:]', symObjAddr: 0x2890, symBinAddr: 0x6058, symSize: 0x78 }
+  - { offsetInCU: 0xE9F, offset: 0x6073C, size: 0x8, addend: 0x0, symName: '+[AWSSignInViewController getAWSSignInViewControllerWithconfiguration:]', symObjAddr: 0x2908, symBinAddr: 0x60D0, symSize: 0x64 }
+  - { offsetInCU: 0xEF5, offset: 0x60792, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController createInternalCompletionHandler]', symObjAddr: 0x296C, symBinAddr: 0x6134, symSize: 0xA8 }
+  - { offsetInCU: 0xF39, offset: 0x607D6, size: 0x8, addend: 0x0, symName: '___58-[AWSSignInViewController createInternalCompletionHandler]_block_invoke', symObjAddr: 0x2A14, symBinAddr: 0x61DC, symSize: 0x148 }
+  - { offsetInCU: 0xFB9, offset: 0x60856, size: 0x8, addend: 0x0, symName: '___58-[AWSSignInViewController createInternalCompletionHandler]_block_invoke_2', symObjAddr: 0x2B5C, symBinAddr: 0x6324, symSize: 0x110 }
+  - { offsetInCU: 0x106C, offset: 0x60909, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40w, symObjAddr: 0x2C6C, symBinAddr: 0x6434, symSize: 0x30 }
+  - { offsetInCU: 0x1095, offset: 0x60932, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40w, symObjAddr: 0x2C9C, symBinAddr: 0x6464, symSize: 0x28 }
+  - { offsetInCU: 0x10B4, offset: 0x60951, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32w, symObjAddr: 0x2CC4, symBinAddr: 0x648C, symSize: 0xC }
+  - { offsetInCU: 0x10DD, offset: 0x6097A, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32w, symObjAddr: 0x2CD0, symBinAddr: 0x6498, symSize: 0x8 }
+  - { offsetInCU: 0x10FC, offset: 0x60999, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController handleUserPoolSignIn]', symObjAddr: 0x2CD8, symBinAddr: 0x64A0, symSize: 0x1D0 }
+  - { offsetInCU: 0x1160, offset: 0x609FD, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController handleUserPoolSignUp]', symObjAddr: 0x2EA8, symBinAddr: 0x6670, symSize: 0xB0 }
+  - { offsetInCU: 0x11C4, offset: 0x60A61, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController handleUserPoolForgotPassword]', symObjAddr: 0x2F58, symBinAddr: 0x6720, symSize: 0xB0 }
+  - { offsetInCU: 0x1228, offset: 0x60AC5, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController onLoginWithSignInProvider:result:error:]', symObjAddr: 0x3008, symBinAddr: 0x67D0, symSize: 0x188 }
+  - { offsetInCU: 0x12C0, offset: 0x60B5D, size: 0x8, addend: 0x0, symName: '___66-[AWSSignInViewController onLoginWithSignInProvider:result:error:]_block_invoke', symObjAddr: 0x3190, symBinAddr: 0x6958, symSize: 0x78 }
+  - { offsetInCU: 0x1330, offset: 0x60BCD, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController canCancel]', symObjAddr: 0x3208, symBinAddr: 0x69D0, symSize: 0x14 }
+  - { offsetInCU: 0x1367, offset: 0x60C04, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setCanCancel:]', symObjAddr: 0x321C, symBinAddr: 0x69E4, symSize: 0x10 }
+  - { offsetInCU: 0x13A4, offset: 0x60C41, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController config]', symObjAddr: 0x322C, symBinAddr: 0x69F4, symSize: 0x10 }
+  - { offsetInCU: 0x13DB, offset: 0x60C78, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setConfig:]', symObjAddr: 0x323C, symBinAddr: 0x6A04, symSize: 0x14 }
+  - { offsetInCU: 0x141C, offset: 0x60CB9, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController signInButton]', symObjAddr: 0x3250, symBinAddr: 0x6A18, symSize: 0x20 }
+  - { offsetInCU: 0x1453, offset: 0x60CF0, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setSignInButton:]', symObjAddr: 0x3270, symBinAddr: 0x6A38, symSize: 0x14 }
+  - { offsetInCU: 0x1494, offset: 0x60D31, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController signUpButton]', symObjAddr: 0x3284, symBinAddr: 0x6A4C, symSize: 0x20 }
+  - { offsetInCU: 0x14CB, offset: 0x60D68, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setSignUpButton:]', symObjAddr: 0x32A4, symBinAddr: 0x6A6C, symSize: 0x14 }
+  - { offsetInCU: 0x150C, offset: 0x60DA9, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController forgotPasswordButton]', symObjAddr: 0x32B8, symBinAddr: 0x6A80, symSize: 0x20 }
+  - { offsetInCU: 0x1543, offset: 0x60DE0, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setForgotPasswordButton:]', symObjAddr: 0x32D8, symBinAddr: 0x6AA0, symSize: 0x14 }
+  - { offsetInCU: 0x1584, offset: 0x60E21, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController orSignInWithLabel]', symObjAddr: 0x32EC, symBinAddr: 0x6AB4, symSize: 0x20 }
+  - { offsetInCU: 0x15BB, offset: 0x60E58, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setOrSignInWithLabel:]', symObjAddr: 0x330C, symBinAddr: 0x6AD4, symSize: 0x14 }
+  - { offsetInCU: 0x15FC, offset: 0x60E99, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController logoView]', symObjAddr: 0x3320, symBinAddr: 0x6AE8, symSize: 0x20 }
+  - { offsetInCU: 0x1633, offset: 0x60ED0, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setLogoView:]', symObjAddr: 0x3340, symBinAddr: 0x6B08, symSize: 0x14 }
+  - { offsetInCU: 0x1674, offset: 0x60F11, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController tableFormView]', symObjAddr: 0x3354, symBinAddr: 0x6B1C, symSize: 0x20 }
+  - { offsetInCU: 0x16AB, offset: 0x60F48, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setTableFormView:]', symObjAddr: 0x3374, symBinAddr: 0x6B3C, symSize: 0x14 }
+  - { offsetInCU: 0x16EC, offset: 0x60F89, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController tableView]', symObjAddr: 0x3388, symBinAddr: 0x6B50, symSize: 0x20 }
+  - { offsetInCU: 0x1723, offset: 0x60FC0, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setTableView:]', symObjAddr: 0x33A8, symBinAddr: 0x6B70, symSize: 0x14 }
+  - { offsetInCU: 0x1764, offset: 0x61001, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController logoViewHeight]', symObjAddr: 0x33BC, symBinAddr: 0x6B84, symSize: 0x20 }
+  - { offsetInCU: 0x179B, offset: 0x61038, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setLogoViewHeight:]', symObjAddr: 0x33DC, symBinAddr: 0x6BA4, symSize: 0x14 }
+  - { offsetInCU: 0x17DC, offset: 0x61079, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController completionHandler]', symObjAddr: 0x33F0, symBinAddr: 0x6BB8, symSize: 0x10 }
+  - { offsetInCU: 0x1813, offset: 0x610B0, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setCompletionHandler:]', symObjAddr: 0x3400, symBinAddr: 0x6BC8, symSize: 0xC }
+  - { offsetInCU: 0x1852, offset: 0x610EF, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController completionHandlerCustom]', symObjAddr: 0x340C, symBinAddr: 0x6BD4, symSize: 0x10 }
+  - { offsetInCU: 0x1889, offset: 0x61126, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setCompletionHandlerCustom:]', symObjAddr: 0x341C, symBinAddr: 0x6BE4, symSize: 0xC }
+  - { offsetInCU: 0x18C8, offset: 0x61165, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController passwordRow]', symObjAddr: 0x3428, symBinAddr: 0x6BF0, symSize: 0x10 }
+  - { offsetInCU: 0x18FF, offset: 0x6119C, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setPasswordRow:]', symObjAddr: 0x3438, symBinAddr: 0x6C00, symSize: 0xC }
+  - { offsetInCU: 0x193E, offset: 0x611DB, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController userNameRow]', symObjAddr: 0x3444, symBinAddr: 0x6C0C, symSize: 0x10 }
+  - { offsetInCU: 0x1975, offset: 0x61212, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setUserNameRow:]', symObjAddr: 0x3454, symBinAddr: 0x6C1C, symSize: 0xC }
+  - { offsetInCU: 0x19B4, offset: 0x61251, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController tableDelegate]', symObjAddr: 0x3460, symBinAddr: 0x6C28, symSize: 0x10 }
+  - { offsetInCU: 0x19EB, offset: 0x61288, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setTableDelegate:]', symObjAddr: 0x3470, symBinAddr: 0x6C38, symSize: 0xC }
+  - { offsetInCU: 0x1A2A, offset: 0x612C7, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController providerRow1]', symObjAddr: 0x347C, symBinAddr: 0x6C44, symSize: 0x20 }
+  - { offsetInCU: 0x1A61, offset: 0x612FE, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setProviderRow1:]', symObjAddr: 0x349C, symBinAddr: 0x6C64, symSize: 0x14 }
+  - { offsetInCU: 0x1AA2, offset: 0x6133F, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController providerRow2]', symObjAddr: 0x34B0, symBinAddr: 0x6C78, symSize: 0x20 }
+  - { offsetInCU: 0x1AD9, offset: 0x61376, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setProviderRow2:]', symObjAddr: 0x34D0, symBinAddr: 0x6C98, symSize: 0x14 }
+  - { offsetInCU: 0x1B1A, offset: 0x613B7, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController providerRow3]', symObjAddr: 0x34E4, symBinAddr: 0x6CAC, symSize: 0x20 }
+  - { offsetInCU: 0x1B51, offset: 0x613EE, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController setProviderRow3:]', symObjAddr: 0x3504, symBinAddr: 0x6CCC, symSize: 0x14 }
+  - { offsetInCU: 0x1B92, offset: 0x6142F, size: 0x8, addend: 0x0, symName: '-[AWSSignInViewController .cxx_destruct]', symObjAddr: 0x3518, symBinAddr: 0x6CE0, symSize: 0x140 }
+  - { offsetInCU: 0x27, offset: 0x61807, size: 0x8, addend: 0x0, symName: '+[AWSAuthUIViewController presentViewControllerWithConfig:completionHandler:]', symObjAddr: 0x0, symBinAddr: 0x6E20, symSize: 0x3B8 }
+  - { offsetInCU: 0x76, offset: 0x61856, size: 0x8, addend: 0x0, symName: '+[AWSAuthUIViewController presentViewControllerWithConfig:completionHandler:]', symObjAddr: 0x0, symBinAddr: 0x6E20, symSize: 0x3B8 }
+  - { offsetInCU: 0x160, offset: 0x61940, size: 0x8, addend: 0x0, symName: '___77+[AWSAuthUIViewController presentViewControllerWithConfig:completionHandler:]_block_invoke', symObjAddr: 0x3B8, symBinAddr: 0x71D8, symSize: 0x90 }
+  - { offsetInCU: 0x1EA, offset: 0x619CA, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b, symObjAddr: 0x448, symBinAddr: 0x7268, symSize: 0x3C }
+  - { offsetInCU: 0x213, offset: 0x619F3, size: 0x8, addend: 0x0, symName: '+[AWSAuthUIViewController presentViewControllerWithNavigationController:configuration:completionHandler:]', symObjAddr: 0x4B4, symBinAddr: 0x72A4, symSize: 0x158 }
+  - { offsetInCU: 0x288, offset: 0x61A68, size: 0x8, addend: 0x0, symName: '___105+[AWSAuthUIViewController presentViewControllerWithNavigationController:configuration:completionHandler:]_block_invoke', symObjAddr: 0x60C, symBinAddr: 0x73FC, symSize: 0xD0 }
+  - { offsetInCU: 0x312, offset: 0x61AF2, size: 0x8, addend: 0x0, symName: '+[AWSAuthUIViewController getDefaultAuthUIConfiguration]', symObjAddr: 0x6DC, symBinAddr: 0x74CC, symSize: 0x304 }
+  - { offsetInCU: 0x42F, offset: 0x61C0F, size: 0x8, addend: 0x0, symName: '+[AWSAuthUIViewController isConfigurationKeyPresent:]', symObjAddr: 0x9E0, symBinAddr: 0x77D0, symSize: 0x1A4 }
+...

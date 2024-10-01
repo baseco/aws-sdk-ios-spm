@@ -1,0 +1,52 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/stefan/Library/Developer/Xcode/DerivedData/AWSAuthSDK-eypznaavrcolsufeizqgjtbknube/Build/Intermediates.noindex/ArchiveIntermediates/AWSAppleSignIn/InstallationBuildProductsLocation/Library/Frameworks/AWSAppleSignIn.framework/AWSAppleSignIn'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x606BE, size: 0x8, addend: 0x0, symName: _AWSAppleSignInVersionString, symObjAddr: 0x0, symBinAddr: 0x50D0, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x606F3, size: 0x8, addend: 0x0, symName: _AWSAppleSignInVersionNumber, symObjAddr: 0x38, symBinAddr: 0x5108, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x60730, size: 0x8, addend: 0x0, symName: '+[AWSAppleSignInProvider sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x40 }
+  - { offsetInCU: 0x3A, offset: 0x60743, size: 0x8, addend: 0x0, symName: '+[AWSAppleSignInProvider sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x40 }
+  - { offsetInCU: 0x64, offset: 0x6076D, size: 0x8, addend: 0x0, symName: _sharedInstance._sharedInstance, symObjAddr: 0x58B8, symBinAddr: 0xD238, symSize: 0x0 }
+  - { offsetInCU: 0x7A, offset: 0x60783, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0x58C0, symBinAddr: 0xD240, symSize: 0x0 }
+  - { offsetInCU: 0x261, offset: 0x6096A, size: 0x8, addend: 0x0, symName: '___40+[AWSAppleSignInProvider sharedInstance]_block_invoke', symObjAddr: 0x40, symBinAddr: 0x4040, symSize: 0x2C }
+  - { offsetInCU: 0x288, offset: 0x60991, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider init]', symObjAddr: 0x6C, symBinAddr: 0x406C, symSize: 0x70 }
+  - { offsetInCU: 0x2BF, offset: 0x609C8, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider setViewControllerForAppleSignIn:]', symObjAddr: 0xDC, symBinAddr: 0x40DC, symSize: 0x4 }
+  - { offsetInCU: 0x2FE, offset: 0x60A07, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider identityProviderName]', symObjAddr: 0xE0, symBinAddr: 0x40E0, symSize: 0x10 }
+  - { offsetInCU: 0x331, offset: 0x60A3A, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider token]', symObjAddr: 0xF0, symBinAddr: 0x40F0, symSize: 0x14 }
+  - { offsetInCU: 0x374, offset: 0x60A7D, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider isLoggedIn]', symObjAddr: 0x104, symBinAddr: 0x4104, symSize: 0x10 }
+  - { offsetInCU: 0x3AB, offset: 0x60AB4, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider login:]', symObjAddr: 0x114, symBinAddr: 0x4114, symSize: 0x24 }
+  - { offsetInCU: 0x3EE, offset: 0x60AF7, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider logout]', symObjAddr: 0x138, symBinAddr: 0x4138, symSize: 0x4 }
+  - { offsetInCU: 0x41D, offset: 0x60B26, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider reloadSession]', symObjAddr: 0x13C, symBinAddr: 0x413C, symSize: 0x4 }
+  - { offsetInCU: 0x44E, offset: 0x60B57, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider getScopeFromConfig]', symObjAddr: 0x140, symBinAddr: 0x4140, symSize: 0x1A0 }
+  - { offsetInCU: 0x4B1, offset: 0x60BBA, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider appleLogin]', symObjAddr: 0x2E0, symBinAddr: 0x42E0, symSize: 0x12C }
+  - { offsetInCU: 0x514, offset: 0x60C1D, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider authorizationController:didCompleteWithAuthorization:]', symObjAddr: 0x40C, symBinAddr: 0x440C, symSize: 0xAC }
+  - { offsetInCU: 0x583, offset: 0x60C8C, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider authorizationController:didCompleteWithError:]', symObjAddr: 0x4B8, symBinAddr: 0x44B8, symSize: 0x7C }
+  - { offsetInCU: 0x5EC, offset: 0x60CF5, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider presentationAnchorForAuthorizationController:]', symObjAddr: 0x534, symBinAddr: 0x4534, symSize: 0x64 }
+  - { offsetInCU: 0x62F, offset: 0x60D38, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider signInViewController]', symObjAddr: 0x598, symBinAddr: 0x4598, symSize: 0x8 }
+  - { offsetInCU: 0x666, offset: 0x60D6F, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider setSignInViewController:]', symObjAddr: 0x5A0, symBinAddr: 0x45A0, symSize: 0xC }
+  - { offsetInCU: 0x6A7, offset: 0x60DB0, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider completionHandler]', symObjAddr: 0x5AC, symBinAddr: 0x45AC, symSize: 0xC }
+  - { offsetInCU: 0x6DE, offset: 0x60DE7, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider setCompletionHandler:]', symObjAddr: 0x5B8, symBinAddr: 0x45B8, symSize: 0x8 }
+  - { offsetInCU: 0x71D, offset: 0x60E26, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider idToken]', symObjAddr: 0x5C0, symBinAddr: 0x45C0, symSize: 0x8 }
+  - { offsetInCU: 0x754, offset: 0x60E5D, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider setIdToken:]', symObjAddr: 0x5C8, symBinAddr: 0x45C8, symSize: 0x8 }
+  - { offsetInCU: 0x793, offset: 0x60E9C, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider scopes]', symObjAddr: 0x5D0, symBinAddr: 0x45D0, symSize: 0x8 }
+  - { offsetInCU: 0x7CA, offset: 0x60ED3, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider setScopes:]', symObjAddr: 0x5D8, symBinAddr: 0x45D8, symSize: 0xC }
+  - { offsetInCU: 0x80B, offset: 0x60F14, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInProvider .cxx_destruct]', symObjAddr: 0x5E4, symBinAddr: 0x45E4, symSize: 0x48 }
+  - { offsetInCU: 0x27, offset: 0x6103F, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInButton initWithCoder:]', symObjAddr: 0x0, symBinAddr: 0x462C, symSize: 0x50 }
+  - { offsetInCU: 0xE6, offset: 0x610FE, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInButton initWithCoder:]', symObjAddr: 0x0, symBinAddr: 0x462C, symSize: 0x50 }
+  - { offsetInCU: 0x12D, offset: 0x61145, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInButton initWithFrame:]', symObjAddr: 0x50, symBinAddr: 0x467C, symSize: 0x58 }
+  - { offsetInCU: 0x170, offset: 0x61188, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInButton commonInit]', symObjAddr: 0xA8, symBinAddr: 0x46D4, symSize: 0x44 }
+  - { offsetInCU: 0x1A3, offset: 0x611BB, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInButton createAppleButton]', symObjAddr: 0xEC, symBinAddr: 0x4718, symSize: 0x98 }
+  - { offsetInCU: 0x1F6, offset: 0x6120E, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInButton logInWithProvider:]', symObjAddr: 0x184, symBinAddr: 0x47B0, symSize: 0xC0 }
+  - { offsetInCU: 0x235, offset: 0x6124D, size: 0x8, addend: 0x0, symName: '___42-[AWSAppleSignInButton logInWithProvider:]_block_invoke', symObjAddr: 0x244, symBinAddr: 0x4870, symSize: 0x9C }
+  - { offsetInCU: 0x294, offset: 0x612AC, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0x2E0, symBinAddr: 0x490C, symSize: 0x8 }
+  - { offsetInCU: 0x2BB, offset: 0x612D3, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x2E8, symBinAddr: 0x4914, symSize: 0x8 }
+  - { offsetInCU: 0x2DA, offset: 0x612F2, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInButton delegate]', symObjAddr: 0x2F0, symBinAddr: 0x491C, symSize: 0x20 }
+  - { offsetInCU: 0x311, offset: 0x61329, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInButton setDelegate:]', symObjAddr: 0x310, symBinAddr: 0x493C, symSize: 0x14 }
+  - { offsetInCU: 0x352, offset: 0x6136A, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInButton buttonStyle]', symObjAddr: 0x324, symBinAddr: 0x4950, symSize: 0x10 }
+  - { offsetInCU: 0x389, offset: 0x613A1, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInButton setButtonStyle:]', symObjAddr: 0x334, symBinAddr: 0x4960, symSize: 0x10 }
+  - { offsetInCU: 0x3C6, offset: 0x613DE, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInButton signInProvider]', symObjAddr: 0x344, symBinAddr: 0x4970, symSize: 0x10 }
+  - { offsetInCU: 0x3FD, offset: 0x61415, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInButton setSignInProvider:]', symObjAddr: 0x354, symBinAddr: 0x4980, symSize: 0x14 }
+  - { offsetInCU: 0x43E, offset: 0x61456, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInButton appleStackView]', symObjAddr: 0x368, symBinAddr: 0x4994, symSize: 0x10 }
+  - { offsetInCU: 0x475, offset: 0x6148D, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInButton setAppleStackView:]', symObjAddr: 0x378, symBinAddr: 0x49A4, symSize: 0x14 }
+  - { offsetInCU: 0x4B6, offset: 0x614CE, size: 0x8, addend: 0x0, symName: '-[AWSAppleSignInButton .cxx_destruct]', symObjAddr: 0x38C, symBinAddr: 0x49B8, symSize: 0x50 }
+...
