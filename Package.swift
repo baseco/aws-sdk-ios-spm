@@ -7,7 +7,7 @@ import struct Foundation.URL
 //
 // This value will be updated by the CI/CD pipeline and should not be
 // updated manually
-let latestVersion = "2.18.1"
+let latestVersion = "2.32.1"
 
 // Hosting url where the release artifacts are hosted.
 let hostingUrl = "https://releases.amplify.aws/aws-sdk-ios/"
@@ -211,11 +211,29 @@ func createTargets() -> [Target] {
 let products = createProducts()
 let targets = createTargets()
 
+
+// let package = Package(
+//     name: "AWSiOSSDKV2",
+//     platforms: [
+//         .iOS(.v9)
+//     ],
+//     products: products,
+//     targets: targets
+// )
+
+
+
+
 let package = Package(
     name: "AWSiOSSDKV2",
     platforms: [
         .iOS(.v9)
     ],
     products: products,
-    targets: targets
-)
+    targets: targets + [
+            .target(
+                name: "aws-sdk-ios-spm-dummy",
+                path: "DummyTarget"
+            )
+        ]
+    )
