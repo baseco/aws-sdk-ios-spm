@@ -7,7 +7,7 @@ import struct Foundation.URL
 //
 // This value will be updated by the CI/CD pipeline and should not be
 // updated manually
-let latestVersion = "2.37.2"
+let latestVersion = "2.18.1"
 
 // Hosting url where the release artifacts are hosted.
 let hostingUrl = "https://releases.amplify.aws/aws-sdk-ios/"
@@ -19,7 +19,7 @@ enum BuildMode {
 }
 
 let localPath = "XCF"
-let buildMode = BuildMode.remote
+let buildMode = BuildMode.localWithFilesystem
 
 // Map between the available frameworks and the checksum
 //
